@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Capa_1" data-name="Capa 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 432 432">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#Cielo);
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4 {
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        fill: url(#Orquídea);
+      }
+
+      .cls-3 {
+        fill: url(#Verano);
+      }
+
+      .cls-4 {
+        fill: url(#Blanco_Negro);
+      }
+    </style>
+    <radialGradient id="Verano" cx="108" cy="108" fx="108" fy="108" r="108" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset=".09" stop-color="#ffecd8"/>
+      <stop offset=".21" stop-color="#ffd4a7"/>
+      <stop offset=".33" stop-color="#ffc07d"/>
+      <stop offset=".46" stop-color="#ffb05a"/>
+      <stop offset=".59" stop-color="#ffa340"/>
+      <stop offset=".72" stop-color="#ff9a2d"/>
+      <stop offset=".86" stop-color="#ff9421"/>
+      <stop offset="1" stop-color="#ff931e"/>
+    </radialGradient>
+    <linearGradient id="Orquídea" x1="216" y1="108" x2="432" y2="108" gradientTransform="translate(216 432) rotate(-90)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ff7bac"/>
+      <stop offset=".22" stop-color="#ff7bac" stop-opacity=".76"/>
+      <stop offset=".6" stop-color="#ff7bac" stop-opacity=".36"/>
+      <stop offset=".87" stop-color="#ff7bac" stop-opacity=".1"/>
+      <stop offset="1" stop-color="#ff7bac" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="Cielo" x1="216" y1="324" x2="432" y2="324" gradientTransform="translate(648 648) rotate(-180)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#cce0f4"/>
+      <stop offset=".06" stop-color="#c2dcf2"/>
+      <stop offset=".17" stop-color="#a9d2ee"/>
+      <stop offset=".31" stop-color="#7fc2e7"/>
+      <stop offset=".46" stop-color="#46abdd"/>
+      <stop offset=".57" stop-color="#1e9cd7"/>
+      <stop offset=".87" stop-color="#0075be"/>
+      <stop offset=".99" stop-color="#005b97"/>
+    </linearGradient>
+    <linearGradient id="Blanco_Negro" data-name="Blanco, Negro" x1="0" y1="324" x2="216" y2="324" gradientTransform="translate(432 216) rotate(90)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#000"/>
+    </linearGradient>
+  </defs>
+  <path class="cls-3" d="m108,0h108v216h-108C48.39,216,0,167.61,0,108H0C0,48.39,48.39,0,108,0Z"/>
+  <path class="cls-2" d="m324,0h108v216h-108c-59.61,0-108-48.39-108-108h0C216,48.39,264.39,0,324,0Z" transform="translate(432 -216) rotate(90)"/>
+  <path class="cls-1" d="m324,216h108v216h-108c-59.61,0-108-48.39-108-108h0c0-59.61,48.39-108,108-108Z" transform="translate(648 648) rotate(180)"/>
+  <path class="cls-4" d="m108,216h108v216h-108C48.39,432,0,383.61,0,324H0C0,264.39,48.39,216,108,216Z" transform="translate(-216 432) rotate(-90)"/>
+</svg>

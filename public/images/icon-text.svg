@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Capa_4" data-name="Capa 4" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1497.94 892.5">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#Cielo);
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4 {
+        stroke-width: 0px;
+      }
+
+      .cls-5 {
+        letter-spacing: -.1em;
+      }
+
+      .cls-2 {
+        fill: url(#Orquídea);
+      }
+
+      .cls-3 {
+        fill: url(#Verano);
+      }
+
+      .cls-6 {
+        font-family: Inter-Bold, Inter;
+        font-size: 86px;
+        font-variation-settings: 'opsz' 14, 'wght' 700;
+        font-weight: 700;
+      }
+
+      .cls-4 {
+        fill: url(#Blanco_Negro);
+      }
+    </style>
+    <linearGradient id="Cielo" x1="668.5" y1="493.07" x2="723.5" y2="493.07" gradientTransform="translate(14 -233.15)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#cce0f4"/>
+      <stop offset=".06" stop-color="#c2dcf2"/>
+      <stop offset=".17" stop-color="#a9d2ee"/>
+      <stop offset=".31" stop-color="#7fc2e7"/>
+      <stop offset=".46" stop-color="#46abdd"/>
+      <stop offset=".57" stop-color="#1e9cd7"/>
+      <stop offset=".87" stop-color="#0075be"/>
+      <stop offset=".99" stop-color="#005b97"/>
+    </linearGradient>
+    <radialGradient id="Verano" cx="815.5" cy="259.36" fx="815.5" fy="259.36" r="29.3" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset=".09" stop-color="#ffecd8"/>
+      <stop offset=".21" stop-color="#ffd4a7"/>
+      <stop offset=".33" stop-color="#ffc07d"/>
+      <stop offset=".46" stop-color="#ffb05a"/>
+      <stop offset=".59" stop-color="#ffa340"/>
+      <stop offset=".72" stop-color="#ff9a2d"/>
+      <stop offset=".86" stop-color="#ff9421"/>
+      <stop offset="1" stop-color="#ff931e"/>
+    </radialGradient>
+    <linearGradient id="Blanco_Negro" data-name="Blanco, Negro" x1="459.43" y1="678" x2="521.43" y2="678" gradientTransform="translate(7.07 -418.07)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#000"/>
+    </linearGradient>
+    <linearGradient id="Orquídea" x1="692.57" y1="196.83" x2="754.57" y2="196.83" gradientTransform="translate(-296.24 63.09)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ff7bac"/>
+      <stop offset=".22" stop-color="#ff7bac" stop-opacity=".76"/>
+      <stop offset=".6" stop-color="#ff7bac" stop-opacity=".36"/>
+      <stop offset=".87" stop-color="#ff7bac" stop-opacity=".1"/>
+      <stop offset="1" stop-color="#ff7bac" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <path class="cls-1" d="m682.5,228.93h24c17.11,0,31,13.89,31,31h0c0,17.11-13.89,31-31,31h-24v-62h0Z" transform="translate(1420 519.85) rotate(-180)"/>
+  <text class="cls-6" transform="translate(387 290.93)"><tspan x="0" y="0" xml:space="preserve">M   </tspan><tspan class="cls-5" x="141.22" y="0">L</tspan><tspan x="181.57" y="0" xml:space="preserve">TIME   iA</tspan></text>
+  <path class="cls-3" d="m788,228.36h24c17.11,0,31,13.89,31,31h0c0,17.11-13.89,31-31,31h-24v-62h0Z"/>
+  <path class="cls-4" d="m466.5,232.43h36.5c14.07,0,25.5,11.43,25.5,25.5v4c0,14.07-11.43,25.5-25.5,25.5h-36.5v-55h0Z" transform="translate(757.43 -237.57) rotate(90)"/>
+  <path class="cls-2" d="m396.33,225.26h36.5c14.07,0,25.5,11.43,25.5,25.5v18.33c0,14.07-11.43,25.5-25.5,25.5h-36.5v-69.33h0Z" transform="translate(167.41 687.26) rotate(-90)"/>
+</svg>
