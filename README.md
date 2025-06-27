@@ -13,8 +13,8 @@
 
 </p>
 
-## Sobre MULTIMEDIA
+## Sobre 🍀MULTIMEDIA🍀
 
 MULTIMEDIA es un blog que ofrece una plataforma para explorar y compartir contenido acerca de diseño y programación.
 
-<em>En desarrollo... </em>
+> <em>En desarrollo... </em>
